@@ -9,7 +9,7 @@
   		System.out.println("请输入年龄");
   		int age = scanner.nextInt();
   		System.out.println("请输入薪水");
-  		Double sal = scanner.nextDouble();
+  		double sal = scanner.nextDouble();
   		System.out.println("name="+name+"age="+age+"sal="+sal);
   	}
   }
